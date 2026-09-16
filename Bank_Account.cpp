@@ -102,7 +102,7 @@ int main() {
         break;
 
       case 4:
-        cout << "Thanks for using BANK SERVICE! (Don't Visit Again) \n";
+        cout << "Thanks for using Bank System! \n";
         break;
 
       default:

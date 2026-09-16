@@ -1,6 +1,15 @@
 # CSC SEC 201 (Programming in C++)
 This repository contains the program/code of CSC SEC 201 (3rd Semester)
 
+
+  ## Practical Questions Part I 
+- [Rectangle Class](https://github.com/4O21/sec3/blob/main/Practical%20Questions%20Part%20I/1_Rectangle_Class.cpp)
+
+- [Bank Account Class](https://github.com/4O21/sec3/blob/main/Practical%20Questions%20Part%20I/3_Bank_Class.cpp)
+
+
+<hr>
+
 ## How to run the Programs?
 ### On Windows
 - if you're using IDE like DevC++, just copy the code and Compile then Run.

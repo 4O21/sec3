@@ -1,5 +1,5 @@
 
-// This program shows the concept of function overloading using a simple 'add()' function. Other examples may use different functions to demonstrarte the concept of Fucntion overloading. 
+// This program shows the concept of function overloading using a simple 'add()' function. Other examples may use different functions to demonstrarte the concept of Fucntion overloading.
 
 // This example does not use any class. However if the question is asking to use class then member functions may be used instead of regular fucntions.
 

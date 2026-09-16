@@ -15,6 +15,15 @@ class Rectangle {
             breadth = b;
         }
 
+    // functions to get area and perimeter
+        float get_area(){
+            return length*breadth;
+        }
+
+        float get_perimeter(){
+            return (2*(length + breadth));
+        }
+
     // function to display area & perimeter
         void display(){
             cout << "\nArea of Rectangle: " << length*breadth << "\n";
