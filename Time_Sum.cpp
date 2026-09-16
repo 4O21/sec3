@@ -1,6 +1,6 @@
 
 // This program is an example of both 'friend' function and 'passing objects to function & returning objects from functions'
-// It is little different from the orginal code given in class.
+// It is somewhat different from the orginal code given during lecture.
 
 // Here we used add_time() function as a friend function instead of a member function();
 
