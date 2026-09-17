@@ -6,26 +6,26 @@ using namespace std;
 class Item {
   private:
 
-    static int count; // This variable is same for all the object, since it belongs to class and not to a particular object
+    static int count; 
     int number;
 
   public:
 
     // This is a constructor. It is called automatically whenever an object is created.
     Item() {
-      count++; // when ever a new Object is created the 'count' variable gets increased by 1. Therefore it will show the total number of object created.
+      count++; 
     }
 
     void get_num(int num){
       number = num;
     }
 
-    void get_count(){ // method to access or print the value of count.
+    void get_count(){ .
       cout << "COUNT: " << count << endl;
     }
 };
 
-int Item::count = 0; // static varibale defined. Note that the count variable is private, so it is not accessible through object or class. Here it is not access but defined with the value 0.
+int Item::count = 0; 
 
 int main() {
   Item one, two, three, four; // 4 objects are created, Hence, the value of "count" will be 4.
