@@ -20,8 +20,7 @@ class Distance {
             int total_feet = feet + d.feet;
             int total_inches = inches + d.inches;
 
-            // This is for converting every 12 inches into 1 foot
-            total_feet += total_inches / 12;
+            total_feet = total_feet + total_inches / 12;
             total_inches = total_inches % 12;
 
             cout << "\nResultant Distance = " << total_feet << " feet " << total_inches << " inches" << endl;

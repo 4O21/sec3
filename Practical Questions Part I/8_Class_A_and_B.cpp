@@ -8,6 +8,7 @@ using namespace std;
     has to know that both the classes are present or declared. 
     This is because the sum_class() funtion needs the objects of both the class as arguments.
 */
+
 class A;
 class B;
 
@@ -23,7 +24,7 @@ class A {
         }
         
         // declaration of friend function
-        friend void sum_class(A a, B b);
+        friend int sum_class(A a, B b);
 };
 
 class B {
@@ -37,12 +38,13 @@ class B {
             cin >> num;
         }
         
-        friend void sum_class(A a, B b);
+        friend int sum_class(A a, B b);
 };
 
 // defination of friend function
-void sum_class(A a, B b){
+int sum_class(A a, B b){
     cout << "The sum is " << a.num + b.num;
+    return a.num + b.num;
 }
 
 int main()

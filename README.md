@@ -9,6 +9,12 @@ This repository contains the program/code of CSC SEC 201 (3rd Semester)
 
 - [Swapping Values - Call by Value and Call by Reference](https://github.com/4O21/sec3/blob/main/Practical%20Questions%20Part%20I/5_Call_by_Value_Reference.cpp)
 
+- [Static Varibale & Methods (question 7)](https://github.com/4O21/sec3/blob/main/Practical%20Questions%20Part%20I/7_Static_Var_Method_Count.cpp)
+
+- [Class A, Class B (question 8)](https://github.com/4O21/sec3/blob/main/Practical%20Questions%20Part%20I/8_Class_A_and_B.cpp)
+
+- [Distance Class](https://github.com/4O21/sec3/blob/main/Practical%20Questions%20Part%20I/9_Distance_Class.cpp)
+
 
 <hr>
 
