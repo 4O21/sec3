@@ -15,6 +15,7 @@ This repository contains the program/code of CSC SEC 201 (3rd Semester)
 
 - [Distance Class](https://github.com/4O21/sec3/blob/main/Practical%20Questions%20Part%20I/9_Distance_Class.cpp)
 
+- [Employee Class](https://github.com/4O21/sec3/blob/main/Practical%20Questions%20Part%20I/10_Employee_Class.cpp)
 
 <hr>
 
